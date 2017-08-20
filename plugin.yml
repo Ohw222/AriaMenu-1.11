@@ -1,0 +1,6 @@
+name: AriaMenu-1.10
+version: 1.0
+author: Ohw222
+main: fr.Ohw222.ariacraft.spigot18.menu.Main
+commands:
+  gmenu:
